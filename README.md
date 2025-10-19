@@ -121,6 +121,7 @@ The analysis revealed consistent demand for moisturizing and skincare products, 
 **Anthony Onoruvie**  
 Data Analyst | Business Intelligence Professional  | Statistical Analyst
 i am open for collaboration on data analysis, statistical analysis and visualization project, reach me on the below
+
 Email: [Anthony.onoruvie1@gmail.com]  
 GitHub: [https://github.com/Anthony-Onoruvie]
 
