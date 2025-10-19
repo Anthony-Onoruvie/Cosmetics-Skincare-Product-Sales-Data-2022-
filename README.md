@@ -117,4 +117,12 @@ The dashboard provides a comprehensive view of performance metrics, helping stak
 The analysis revealed consistent demand for moisturizing and skincare products, with strong performance in the first half of 2022. The Power BI dashboard further enhanced visibility into performance across different dimensions.
 
 
+## Author
+**Anthony Onoruvie**  
+Data Analyst | Business Intelligence Professional  | Statistical Analyst
+i am open for collaboration on data analysis, statistical analysis and visualization project, reach me on the below
+Email: [Anthony.onoruvie1@gmail.com]  
+GitHub: [https://github.com/Anthony-Onoruvie]
+
+
 
