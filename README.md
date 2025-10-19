@@ -1,5 +1,7 @@
 # Cosmetics & Skincare Product Sales Data Analysis (2022)
 
+<img width="795" height="400" alt="Image" src="https://github.com/user-attachments/assets/e4ab1201-e927-41cc-adfd-48f62d2728af" />
+
 ## Project Overview
 This project presents a detailed analysis of **Cosmetics & Skincare Product Sales Data (2022)**.  
 The analysis was conducted using **Microsoft Excel**, **Power Query**, and **Power BI** to identify key performance metrics, sales patterns, and regional trends across multiple dimensions — products, salespersons, months, and countries.
